@@ -74,3 +74,4 @@ public class LT_005_longest_palindromic_substring {
         return maxSubString;
     }
 
+}
